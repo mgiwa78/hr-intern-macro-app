@@ -184,7 +184,7 @@ export function EmployeeDetails() {
                     <div className="mt-2">
                       <div className="h-2 w-full rounded-full bg-gray-200">
                         <div
-                          className="h-2 rounded-full bg-primary-600"
+                          className="h-2 rounded-full bg-green-600"
                           style={{ width: `${progress}%` }}
                         />
                       </div>
